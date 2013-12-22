@@ -22,7 +22,7 @@ int main()
         window.draw(shape);
         window.display();
     }
-
+	 cout<<"i love bacon";
     return 0;
 }
 
