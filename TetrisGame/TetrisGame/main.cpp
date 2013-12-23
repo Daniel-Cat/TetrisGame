@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 using namespace std;
 int main()
-{
+{// i hope this is now in the master
 	sf::RenderWindow window(sf::VideoMode(sf::VideoMode::getDesktopMode().width-20, sf::VideoMode::getDesktopMode().height-90), "SFML works!");
     sf::CircleShape shapec(100.f);
 	// so now im messing with the master
